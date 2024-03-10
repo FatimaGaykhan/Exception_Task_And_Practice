@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\Exceptions\" />
+    <None Remove="Helpers\Responses\" />
+    <None Remove="Helpers\Constants\" />
+    <None Remove="Services\" />
+    <None Remove="Controllers\" />
+    <None Remove="Services\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Helpers\Exceptions\" />
+    <Folder Include="Helpers\Responses\" />
+    <Folder Include="Helpers\Constants\" />
+    <Folder Include="Services\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Services\Interfaces\" />
+  </ItemGroup>
+</Project>

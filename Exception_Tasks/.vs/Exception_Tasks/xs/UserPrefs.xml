@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{26CDCEB2-34F3-4138-8C9F-CEE27537DC85}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exception_Tasks/Services/UserService.cs">
+    <Files>
+      <File FileName="Exception_Tasks/Program.cs" Line="16" Column="25" />
+      <File FileName="Exception_Tasks/Services/LoginService.cs" Line="50" Column="1" />
+      <File FileName="Exception_Tasks/Services/Interfaces/ILoginInterface.cs" Line="9" Column="29" />
+      <File FileName="Exception_Tasks/Models/Login.cs" Line="11" Column="1" />
+      <File FileName="Exception_Tasks/Controllers/UserController.cs" Line="21" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exception_Tasks" expanded="True">
+            <Node name="Exception_Tasks" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="Exceptions" expanded="True" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Exception__Tasks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

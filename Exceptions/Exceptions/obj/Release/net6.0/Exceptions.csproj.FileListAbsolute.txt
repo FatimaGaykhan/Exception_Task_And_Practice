@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/bin/Release/net6.0/Exceptions
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/bin/Release/net6.0/Exceptions.deps.json
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/bin/Release/net6.0/Exceptions.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/bin/Release/net6.0/Exceptions.dll
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/bin/Release/net6.0/Exceptions.pdb
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/Exceptions.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/Exceptions.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/Exceptions.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/Exceptions.dll
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/refint/Exceptions.dll
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/Exceptions.pdb
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/Exceptions.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Exceptions/Exceptions/obj/Release/net6.0/ref/Exceptions.dll
